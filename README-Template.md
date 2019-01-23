@@ -10,6 +10,7 @@ git clone https://github.com/chidionyema/merkleroot.git
 
 ### Installing
 cd merkletree
+
 dotnet run
 
 ## Contributing
